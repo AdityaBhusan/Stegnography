@@ -1,0 +1,15 @@
+{
+  "original": "H",
+  "decoded": "H",
+  "stego_text": "The University of Virginia in Charlottesville has a rich history dating back to 1819 when it was founded as an agricultural college. It is also home to the iconic Virginia Tech Carilion School of Medicine & Health Sciences.",
+  "num_chunks": 1,
+  "metadata": {
+    "original_length": 8,
+    "chunk_size": 8,
+    "num_chunks": 1,
+    "padding_bits": 0
+  },
+  "encoded_entities": [
+    "Virginia"
+  ]
+}
